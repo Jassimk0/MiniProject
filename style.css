@@ -1,0 +1,67 @@
+
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20230525/pngtree-green-field-inside-football-stadium-in-silhouette-under-sky-image_2628209.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 850px;
+
+}
+
+.bein {
+    height: 100px;
+    width: 200px;
+}
+
+button {
+    height: 55px;
+    width: 55px;
+    justify-content: center;
+}
+
+.clasico {
+    height: 200px;
+    width: 100px;
+    object-fit: cover;
+
+}
+
+.Topbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Pictures {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.Games {
+    display: flex;
+    justify-content: space-evenly;
+    height: 75vh;
+    align-items: center;
+  
+}
+
+.united {
+    height: 200px;
+    width: 100px;
+    object-fit: cover;
+}
+
+.bayern {
+    height: 200px;
+    width: 100px;
+    object-fit: cover;
+  
+}
+
+.title {
+    color: white;
+}
+
+.text {
+    color: white;
+}
